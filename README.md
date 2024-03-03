@@ -1,19 +1,19 @@
 <h1 align="center">I'm Olara Moses 👨🏻‍💻 WodPachua!</h1>
-<h3 align="center">💻 A Frontend Developer and Software Engineer from 🇺🇬 Uganda 🇺🇬. Here is a little bit about me...</h3>
+<h3 align="center">💻 A Frontend Developer and Software Engineer from 🇺🇬 Uganda 🇺🇬</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wodpachua&label=Profile%20views&color=0e75b6&style=flat" alt="wodpachua" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wodpachua" alt="wodpachua" /></a> </p>
+<h3 align="left">Here is a little bit about me 👨🏻‍💻</h3>
 
 - 🌱 I’m currently learning **Agile Software Development and Craftsmanship**
 
-- 👨‍💻 My FreeCodeCamp projects are available at [https://www.freecodecamp.org/wodpachua](https://www.freecodecamp.org/wodpachua)
+- 👨‍💻 My FreeCodeCamp projects are available at my [freecodecamp profile](https://www.freecodecamp.org/wodpachua)
 
-- 📝 I sometimes write articles on [https://medium.com/@wodpachua](https://medium.com/@wodpachua)
+- 📝 I sometimes write articles on [Medium](https://medium.com/@wodpachua)
 
 - 💬 Ask me about **JavaScript, Java, HTML5, CSS3, Docker, AWS, GIT**
 
-- 👨‍💻 My Odin projects are available at **https://github.com/wodpachua**
+- 👨‍💻 My Odin projects are available **Right here on GitHub**
 
 - ⚡ Fun fact **To learn about a frog, don't dissect it, build it! 😃😃😃**
 
