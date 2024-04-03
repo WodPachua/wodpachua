@@ -17,13 +17,13 @@
 
 - 💬 Ask me about **Agile Software Development and Craftsmanship**
 
+- 👨‍💻 My Odin projects are available **Right here on GitHub**
+
 - 👨‍💻 My FreeCodeCamp projects are available at my [freecodecamp profile](https://www.freecodecamp.org/wodpachua)
 
 - 📝 I will soon be writing articles on [Medium](https://medium.com/@wodpachua)
 
-<!-- - 💬 Ask me about **JavaScript, Java, HTML5, CSS3, Docker, AWS, GIT** -->
-
-- 👨‍💻 My Odin projects are available **Right here on GitHub**
+- 💬 👨‍💻 Reach me on **[E-mail](mailto:molara@rocketmail.com)** for **work and collaboration**.
 
 - ⚡ Fun fact **To learn about a frog, don't dissect it, build it! 😃😃😃**
   
